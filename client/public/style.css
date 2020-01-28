@@ -1,0 +1,16 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: grey ;
+}
+
+button.link{
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 3;
+    outline: none;
+    outline-offset: 0;
+    color: rgb(92, 14, 14);
+
+}
